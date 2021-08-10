@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lengthDistanceConverter_Xamarin_Android</string>
+    <string name="action_settings">Settings</string>
+
+	<string-array name="Measurements">
+		<item>Centimeters</item>
+		<item>Meters</item>
+		<item>Kilometers</item>
+	</string-array>
+	
+</resources>
